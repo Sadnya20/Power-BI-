@@ -21,6 +21,19 @@
 
 ![image](https://github.com/user-attachments/assets/3a79fdb1-a841-4f0e-8a16-f9391ba958e7)
 
+# 4 Pune Weather Forcasting Dashboard
+![image](https://github.com/user-attachments/assets/e4a2a1cc-e696-4d7d-9552-6899b341fd99)
+
+![image](https://github.com/user-attachments/assets/4c6f84f3-b461-451e-bc40-2e2dcfaef262)
+
+![image](https://github.com/user-attachments/assets/1bea59db-11d5-41be-ab5a-4a78009d23d4)
+
+# 5 Aviation Profit analysis Dashboard
+# 6 Data Jobs Market Demand Analysis 
+
+
+
+
 
 
 
