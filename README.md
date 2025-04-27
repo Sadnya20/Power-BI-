@@ -7,4 +7,20 @@
 
 ![image](https://github.com/user-attachments/assets/302a6c6c-b6b6-4242-8424-41533f423539)
 
-# 2 BALAJI Super Mart ANALYSIS
+# 2 BALAJI Sales E-Commerce Dashboard
+
+![image](https://github.com/user-attachments/assets/351d0fa5-f40e-487b-9d97-148bef73beeb)
+
+# 3 Spotify  Dashboard
+
+![image](https://github.com/user-attachments/assets/07b29423-b454-42c2-b061-de1256aeb298) 
+
+![image](https://github.com/user-attachments/assets/5d0ecfd0-893c-4828-9286-6721781b0313)
+
+![image](https://github.com/user-attachments/assets/92180317-5751-4597-a73a-ab7c8c6ef2ab)
+
+![image](https://github.com/user-attachments/assets/3a79fdb1-a841-4f0e-8a16-f9391ba958e7)
+
+
+
+
